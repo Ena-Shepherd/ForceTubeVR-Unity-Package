@@ -38,7 +38,7 @@ Takes a power between 0 and 255 and a duration between 0 and 500ms
 This function calls the Kick and Rumble functions 
 
 ##
-**```public static void SetActiveResearch(bool active) ```**
+**```public static void SetActive(bool active) ```**
 
 This function enables or disables the bluetooth research (active by default, you don't need to call it when the app starts), set to false in order to stop trying to connect forcetubes to your app
 
