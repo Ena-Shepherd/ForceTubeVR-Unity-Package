@@ -40,7 +40,7 @@ This function calls the Kick and Rumble functions
 ##
 **```public static void SetActiveResearch(bool active) ```**
 
-This function enables or disables the bluetooth research (active by default, you don't need to call it when the app starts), set to false in order to stop trying to connecte forcetubes to your app
+This function enables or disables the bluetooth research (active by default, you don't need to call it when the app starts), set to false in order to stop trying to connect forcetubes to your app
 
 ##
 **```public static Byte TempoToKickPower(float tempo) ```**
@@ -112,6 +112,6 @@ This function opens the Bluetooth settings of the device
 
 **```public static void DisconnectAll() ```**
 
-This function disconnectes all ForceTube from the device
+This function disconnects all ForceTubes from the device
 
 
